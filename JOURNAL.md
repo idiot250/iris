@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmv5annx70hnc01n0mieju99d)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> mechanical iris diaphragm
+> mechanical iris diaphragm with 12 blades, inspired by camera apertures firstly then i found out there were a bunch of other cool uses for them like in light control like in microscopes or even i nvacuums !
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
